@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "name": "Go‘shtli bomba",
+    "category": "burger",
+    "price": 98000,
+    "weight": "520 g",
+    "image": "burger1.png"
+  },
+  {
+    "id": 2,
+    "name": "Super pishloqli",
+    "category": "burger",
+    "price": 78000,
+    "weight": "512 g",
+    "image": "burger2.png"
+  },
+  {
+    "id": 3,
+    "name": "To‘yimli",
+    "category": "burger",
+    "price": 91000,
+    "weight": "580 g",
+    "image": "burger3.png"
+  },
+  {
+    "id": 4,
+    "name": "Og‘ir zarba",
+    "category": "burger",
+    "price": 68000,
+    "weight": "470 g",
+    "image": "burger4.png"
+  },
+  {
+    "id": 5,
+    "name": "Abadiy klassika",
+    "category": "burger",
+    "price": 64000,
+    "weight": "450 g",
+    "image": "burger5.png"
+  },
+  {
+    "id": 6,
+    "name": "Italyancha",
+    "category": "burger",
+    "price": 79500,
+    "weight": "510 g",
+    "image": "burger6.png"
+  },
+
+  {
+    "id": 7,
+    "name": "Kartoshka fri",
+    "category": "zakuski",
+    "price": 25500,
+    "weight": "150 g",
+    "image": "zakuski1.png"
+  },
+  {
+    "id": 8,
+    "name": "Qishloqcha kartoshka",
+    "category": "zakuski",
+    "price": 28500,
+    "weight": "150 g",
+    "image": "zakuski2.png"
+  },
+  {
+    "id": 9,
+    "name": "Naggets",
+    "category": "zakuski",
+    "price": 35500,
+    "weight": "180 g / 10 dona",
+    "image": "zakuski3.png"
+  },
+  {
+    "id": 10,
+    "name": "Tovuq stripslari",
+    "category": "zakuski",
+    "price": 42500,
+    "weight": "200 g / 5 dona",
+    "image": "zakuski4.png"
+  },
+  {
+    "id": 11,
+    "name": "Piyoz halqalari",
+    "category": "zakuski",
+    "price": 32500,
+    "weight": "150 g",
+    "image": "zakuski5.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mozzarella tayoqchalari",
+    "category": "zakuski",
+    "price": 39500,
+    "weight": "126 g / 5 dona",
+    "image": "zakuski6.png"
+  },
+
+  {
+    "id": 13,
+    "name": "Klassik hot-dog",
+    "category": "hotdog",
+    "price": 28500,
+    "weight": "250 g",
+    "image": "hotdog1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pishloqli hot-dog",
+    "category": "hotdog",
+    "price": 35500,
+    "weight": "280 g",
+    "image": "hotdog2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Chili hot-dog",
+    "category": "hotdog",
+    "price": 39500,
+    "weight": "290 g",
+    "image": "hotdog3.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Bavariya hot-dogi",
+    "category": "hotdog",
+    "price": 42500,
+    "weight": "300 g",
+    "image": "hotdog4.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Ikki qavatli hot-dog",
+    "category": "hotdog",
+    "price": 49500,
+    "weight": "350 g",
+    "image": "hotdog5.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bekonli hot-dog",
+    "category": "hotdog",
+    "price": 47000,
+    "weight": "310 g",
+    "image": "hotdog6.jpg"
+  },
+
+  {
+    "id": 19,
+    "name": "Qanotchalar kombo",
+    "category": "combo",
+    "price": 78000,
+    "weight": "450 g",
+    "image": "combo1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Naggets kombo",
+    "category": "combo",
+    "price": 71000,
+    "weight": "400 g",
+    "image": "combo2.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Hot-dog kombo",
+    "category": "combo",
+    "price": 65500,
+    "weight": "380 g",
+    "image": "combo3.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Kartoshka kombo",
+    "category": "combo",
+    "price": 56500,
+    "weight": "350 g",
+    "image": "combo4.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Pitsa kombo",
+    "category": "combo",
+    "price": 99500,
+    "weight": "650 g",
+    "image": "combo5.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Shavurma kombo",
+    "category": "combo",
+    "price": 85000,
+    "weight": "500 g",
+    "image": "combo6.jpg"
+  },
+
+  {
+    "id": 25,
+    "name": "Klassik shavurma",
+    "category": "shaurma",
+    "price": 49500,
+    "weight": "350 g",
+    "image": "shaurma1.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Pishloqli shavurma",
+    "category": "shaurma",
+    "price": 56500,
+    "weight": "380 g",
+    "image": "shaurma2.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Achchiq shavurma",
+    "category": "shaurma",
+    "price": 54000,
+    "weight": "370 g",
+    "image": "shaurma3.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Tovuqli shavurma",
+    "category": "shaurma",
+    "price": 51000,
+    "weight": "360 g",
+    "image": "shaurma4.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Mol go‘shtli shavurma",
+    "category": "shaurma",
+    "price": 61000,
+    "weight": "400 g",
+    "image": "shaurma5.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Ikki qavatli shavurma",
+    "category": "shaurma",
+    "price": 71000,
+    "weight": "500 g",
+    "image": "shaurma6.jpg"
+  },
+
+  {
+    "id": 31,
+    "name": "Pepperoni",
+    "category": "pizza",
+    "price": 78000,
+    "weight": "520 g",
+    "image": "pizza1.jpg"
+  },
+  {
+    "id": 32,
+    "name": "4 xil pishloqli",
+    "category": "pizza",
+    "price": 85000,
+    "weight": "500 g",
+    "image": "pizza2.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Go‘shtli pitsa",
+    "category": "pizza",
+    "price": 92500,
+    "weight": "580 g",
+    "image": "pizza3.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Pishloqli pitsa",
+    "category": "pizza",
+    "price": 75000,
+    "weight": "510 g",
+    "image": "pizza4.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Margarita",
+    "category": "pizza",
+    "price": 64000,
+    "weight": "480 g",
+    "image": "pizza5.jpg"
+  },
+  {
+    "id": 36,
+    "name": "BBQ pitsa",
+    "category": "pizza",
+    "price": 89500,
+    "weight": "570 g",
+    "image": "pizza6.jpg"
+  },
+
+  {
+    "id": 37,
+    "name": "Teriyaki tovuq",
+    "category": "vok",
+    "price": 64000,
+    "weight": "400 g",
+    "image": "vok1.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Mol go‘shtli vok",
+    "category": "vok",
+    "price": 75000,
+    "weight": "420 g",
+    "image": "vok2.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Sabzavotli vok",
+    "category": "vok",
+    "price": 54000,
+    "weight": "380 g",
+    "image": "vok3.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Pishloqli vok",
+    "category": "vok",
+    "price": 71000,
+    "weight": "400 g",
+    "image": "vok4.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Achchiq vok",
+    "category": "vok",
+    "price": 66500,
+    "weight": "390 g",
+    "image": "vok5.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Krevetkali vok",
+    "category": "vok",
+    "price": 85000,
+    "weight": "400 g",
+    "image": "vok6.jpg"
+  },
+
+  {
+    "id": 43,
+    "name": "Nyu-York chizkeyki",
+    "category": "desert",
+    "price": 49500,
+    "weight": "180 g",
+    "image": "desert1.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Shokoladli brauni",
+    "category": "desert",
+    "price": 42500,
+    "weight": "160 g",
+    "image": "desert2.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Tiramisu",
+    "category": "desert",
+    "price": 54000,
+    "weight": "200 g",
+    "image": "desert3.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Medovik",
+    "category": "desert",
+    "price": 47000,
+    "weight": "180 g",
+    "image": "desert4.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Shokoladli tort",
+    "category": "desert",
+    "price": 51000,
+    "weight": "190 g",
+    "image": "desert5.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Vanilli chizkeyk",
+    "category": "desert",
+    "price": 48000,
+    "weight": "180 g",
+    "image": "desert6.jpg"
+  },
+
+  {
+    "id": 49,
+    "name": "Pishloqli sous",
+    "category": "sauces",
+    "price": 11000,
+    "weight": "50 g",
+    "image": "sauces1.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Sarimsoqli sous",
+    "category": "sauces",
+    "price": 10000,
+    "weight": "50 g",
+    "image": "sauces2.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Ketchup",
+    "category": "sauces",
+    "price": 8500,
+    "weight": "50 g",
+    "image": "sauces3.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Barbekyu sousi",
+    "category": "sauces",
+    "price": 11000,
+    "weight": "50 g",
+    "image": "sauces4.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Chili sousi",
+    "category": "sauces",
+    "price": 10000,
+    "weight": "50 g",
+    "image": "sauces5.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Xantal sousi",
+    "category": "sauces",
+    "price": 10000,
+    "weight": "50 g",
+    "image": "sauces6.jpg"
+  }
+]
